@@ -1,13 +1,18 @@
 @charset "UFT-8";
 
+body {
+    font: 20px Arial, sans-serif;
+}
+
 .navbar {
     background-color: rgb(152, 228, 117);
 }
 
 .quem-somos {
     background-color: rgb(221, 221, 221);
+    color: #505050;
 }
 
 .margin {
-    padding-top: 50px;
+    padding-bottom: 50px;
 }
