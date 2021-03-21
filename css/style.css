@@ -21,3 +21,12 @@ body {
 .parceiros {
     background-color: rgb(173, 173, 173);
 }
+
+.servicos {
+    background-color: rgb(221, 221, 221);
+}
+
+.bg-footer {
+    color: white;
+    background-color: black;
+}
